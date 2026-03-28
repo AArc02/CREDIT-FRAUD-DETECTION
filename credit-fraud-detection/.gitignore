@@ -16,7 +16,7 @@ env/
 .env/
 
 # Données sensibles (ne jamais committer les CSV bruts)
-data/*.csv
+# data/*.csv
 data/*.xlsx
 data/*.parquet
 !data/.gitkeep
