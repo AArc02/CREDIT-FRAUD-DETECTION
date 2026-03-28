@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Présentation
+##  Présentation
 
 Cette application Streamlit permet d'explorer, entraîner et évaluer des modèles de Machine Learning pour la **détection de transactions frauduleuses** sur un dataset de transactions bancaires.
 
@@ -177,7 +177,7 @@ Distribué sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus d'information
 
 ---
 
-## 👤 Auteur
+## 👤 Auteur : Arsene ALLAHNDIGUIM
 
 **postgres** — Projet Data Science  
-*Formation Machine Learning — 2026*
+* Machine Learning — 2026*
